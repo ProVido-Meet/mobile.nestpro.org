@@ -1,0 +1,32 @@
+.login_div {
+    background: rgb(255, 255, 255);
+    float: none;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+    border-color: #ddd;
+    border-left: 3px;
+    margin-top: 50px;
+    padding: 20px;
+}
+
+.login_div input {
+    border-radius: 10px;
+}
+
+.login_div button {
+    width: 50%;
+    border-radius: 30px;
+}
+
+.login_div button:hover {
+    width: 50%;
+    color: rgb(42, 173, 16);
+    border-radius: 30px;
+    background-color: white;
+}
+
+.login_div img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
